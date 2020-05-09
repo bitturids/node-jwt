@@ -1,7 +1,7 @@
 # nodejwt
 
 ###### I have here used MongoDB to save data
-###### I tried to create sample registration , login wit jwt and one sample api that uses jwt.
+###### I tried to create sample registration , login with jwt and one sample api that uses jwt.
 
 ###### Few steps to run this project
 ``` 
@@ -9,7 +9,7 @@
 2. Run Project : npm start
 ```
 
-###### Userd Npm packages and brief details for it
+###### Used Npm packages and brief details for it
 1. **mongoose** : Mongoose provides a straight-forward, schema-based solution to model your application data. 
 2. **jsonwebtoken** : To generate jwt token.
 3. **dotenv** : Storing configuration in the environment separate from code 
